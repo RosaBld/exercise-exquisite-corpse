@@ -2,7 +2,6 @@
 
 ![Juste une illustration d'un cheval heureux](https://img.freepik.com/vecteurs-premium/cheval-drole-dessin-anime-cours-execution-fond-blanc_353337-757.jpg)
 
-
 Il était une fois, un <sub>petit cheval</sub> qui n'avait pas de cavalier.
 Il restait seul dans sa prairie **à manger** du foin, galoper et se rouler.
 Mais malgré sa belle vie dans les prés, il rêvait d'être <sup>monté.</sup>
@@ -18,3 +17,4 @@ Ce fut le coup de foudre entre la petite Sonia et notre petit cheval qui retrouv
 Un beau jour le <sub>petit cheval</sub> était *triste*, il entendit alors une foule.
 Des cris venant de gauche, de droite, de devant et de derrière.
 Les **cris** étaient si perçant que le <sub>petit cheval</sub> en avait mal au oreilles.
+
