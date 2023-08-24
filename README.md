@@ -14,3 +14,7 @@ Dès qu'il entendait quelqu'un arriver au loin, il galopait vers lui en hennissa
 Le petit cheval desepérait de plus en plus de ne pas trouver de cavalier ou cavalière.
 Jusqu'au jour où la petite fille du vieille homme vient pour passée les vacances.
 Ce fut le coup de foudre entre la petite Sonia et notre petit cheval qui retrouva sa joie de vivre.
+
+Un beau jour le <sub>petit cheval</sub> était *triste*, il entendit alors une foule.
+Des cris venant de gauche, de droite, de devant et de derrière.
+Les **cris** étaient si perçant que le <sub>petit cheval</sub> en avait mal au oreilles.
