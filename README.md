@@ -11,3 +11,6 @@ Le problème, c'est que son propriétaire était un vieil homme, trop vieux pour
 Alors il guettait les passants, en espérant d'un jour attirer l'attention d'une jeune fille ou d'un jeune homme.
 Dès qu'il entendait quelqu'un arriver au loin, il galopait vers lui en hennissant joyeusement.
  
+Le petit cheval desepérait de plus en plus de ne pas trouver de cavalier ou cavalière.
+Jusqu'au jour où la petite fille du vieille homme vient pour passée les vacances.
+Ce fut le coup de foudre entre la petite Sonia et notre petit cheval qui retrouva sa joie de vivre.
